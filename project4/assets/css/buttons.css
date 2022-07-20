@@ -1,0 +1,20 @@
+.btn-submit {
+    background-color: lightsalmon;
+    font-size: 24px;
+}
+
+.btn-danger {
+    background-color: red;
+}
+
+.btn-warning {
+    background-color: yellow;
+}
+
+.btn-info {
+    background-color: lightblue;
+}
+
+.btn-success {
+    background-color: lightgreen;
+}

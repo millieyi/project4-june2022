@@ -1,0 +1,35 @@
+
+/*0-0-0*/
+
+/*type selector 0-1-0*/
+h1{
+    color: blue;
+}
+
+/*class selector 0-0-1*/
+.heading {
+    color: red;
+}
+
+/*id selector 1-0-0*/
+#heading {
+    color: orange;
+}
+
+.content h2{
+    color: red;
+}
+
+.content {
+    color: aquamarine;
+}
+
+h3.subheading {
+    color: green;
+}
+
+h2.sub-contact {
+    color: lightgreen;
+    background-color: black;
+}
+
